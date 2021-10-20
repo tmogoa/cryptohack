@@ -30,4 +30,5 @@ def mdl_sqrt(a, p):
 for int in ints:
     if is_quad_rsd(int, p):
         print(mdl_sqrt(int, p)) # should return the root
+        # check this out
 
